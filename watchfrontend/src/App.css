@@ -1,0 +1,20 @@
+/*****************Navbar************/
+.clockContainer{
+  margin: 30px 15px;
+  border: black solid 2px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  height: fit-content;
+  padding: 10px 5px;
+}
+.iconStyle{
+  color: white;
+  margin: 0rem .5rem;
+}
+.iconStyle:hover{
+  color:lightgray;
+}
